@@ -5,4 +5,4 @@
 
 # 2 pruebas y solucion general del ejercicio
 
-![](assets/punto06-2.png)
+![](assets/punto06-3.png)
